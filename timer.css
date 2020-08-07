@@ -9,7 +9,7 @@ body {
     box-sizing: border-box;
 }
 .timerCont {
-    height: 700px;
+    min-height: 100vh;
     width: 90%;
     margin-top: 40px;
     background-color: thistle;
